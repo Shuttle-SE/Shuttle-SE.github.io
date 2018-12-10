@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Shuttle SE
 
-You can use the [editor on GitHub](https://github.com/Shuttle-SE/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a POS/POW staking cryptocurrency.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You may join our Discord group by following this link
 
 ### Markdown
 
