@@ -2,7 +2,8 @@
 
 We are a POS/POW staking cryptocurrency.
 
-You may join our Discord group by following this link
+You may join our Discord group by following this link: <a href="https://discord.gg/YdM43sp">
+  
 
 ### Markdown
 
