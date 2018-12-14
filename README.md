@@ -1,8 +1,8 @@
-## Welcome to Shuttle SE
+## Welcome to Shuttle SE!
 
 We are a POS staking cryptocurrency.
 
-You may join our Discord group by following this link: <a href="https://discord.gg/YdM43sp">
+You may join our Discord group by following this link: [Link](https://discord.gg/YdM43sp)
   
 
 ### Markdown
