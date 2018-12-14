@@ -1,4 +1,4 @@
-## Welcome to Shuttle SE! ![Image](https://github.com/Shuttle-SE/website/blob/master/shu_logo-C-01.png)
+## Welcome to Shuttle SE! ![Image](https://github.com/Shuttle-SE/website/blob/master/shu_logo-C-01-small.png)
 
 We are a POS staking cryptocurrency.
 
