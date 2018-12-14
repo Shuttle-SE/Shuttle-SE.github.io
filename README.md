@@ -1,4 +1,4 @@
-## Welcome to Shuttle SE!
+## Welcome to Shuttle SE! ![Image](https://github.com/Shuttle-SE/website/blob/master/shu_logo-C-01.png)
 
 We are a POS staking cryptocurrency.
 
@@ -29,9 +29,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shuttle-SE/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
