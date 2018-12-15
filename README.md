@@ -1,13 +1,15 @@
-## Welcome to Shuttle SE! ![Image](https://github.com/Shuttle-SE/website/blob/master/shu_logo-C-01-80x80.png)
+## Welcome to Shuttle SE!
 
-We are a PoS cryptocurrency promoting Shuttle Technology Development.
+We are a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
 
-You may join our Discord group by following this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+Shuttle is a coin that plans to promote and fund companies based in the Space Tech. Industry.
   
+  
+### Discord
 
-### Markdown
+You may join our Discord community by using the following link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please be aware of imitations. Always check that you are in the official server.
 
 ```markdown
 Syntax highlighted code block
@@ -32,4 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Having trouble with Shuttle? [contact support](newshuttlese@gmail.com) and we’ll help you sort it out.
+Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel, and we’ll help you sort it out. You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+
+<iframe src="https://discordapp.com/widget?id=520628368194928642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
