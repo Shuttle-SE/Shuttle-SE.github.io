@@ -1,6 +1,6 @@
 ## Welcome to Shuttle SE! ![Image](https://github.com/Shuttle-SE/website/blob/master/shu_logo-C-01-80x80.png)
 
-We are a POS staking cryptocurrency.
+We are a PoS cryptocurrency promoting Shuttle Technology Development.
 
 You may join our Discord group by following this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
   
