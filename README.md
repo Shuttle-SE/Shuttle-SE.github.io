@@ -7,6 +7,10 @@ Shuttle is a coin that plans to promote and fund companies based in the Space Te
   
 ### Discord
 
+Join in the chat with our community!
+
+<iframe src="https://discordapp.com/widget?id=520628368194928642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 You may join our Discord community by using the following link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
 Please be aware of imitations. Always check that you are in the official server.
@@ -32,8 +36,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-### Support or Contact
+### Support
 
-Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel, and we’ll help you sort it out. You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel, and we’ll help you sort it out.
 
-<iframe src="https://discordapp.com/widget?id=520628368194928642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
