@@ -20,18 +20,25 @@ Shuttle is a coin that plans to implement funding and development of companies b
 We are currently listed in three of top crypto exchanges, get your hands on some Shuttle using one of these:
 
 ### CREX24
-[https://crex24.com/exchange/SHUT-BTC](https://crex24.com/exchange/SHUT-BTC)
+
 ![Crex24](/img/crex24-logo_200x.jpg)
+
+[https://crex24.com/exchange/SHUT-BTC](https://crex24.com/exchange/SHUT-BTC)
 
 
 ### GRAVIEX
-[https://graviex.net/markets/shutbtc](https://graviex.net/markets/shutbtc)
+
 ![Graviex](/img/Graviex-Logotype_200x.png)
+
+[https://graviex.net/markets/shutbtc](https://graviex.net/markets/shutbtc)
 
 
 ### VAULTMEX
-[https://vaultmex.com/trade/SHUT/BTC](https://vaultmex.com/trade/SHUT/BTC)
+
 ![Vaultmex](/img/vaultmex_logo-200x.png)
+
+[https://vaultmex.com/trade/SHUT/BTC](https://vaultmex.com/trade/SHUT/BTC)
+
 
 
 # We are an Open-Source project.
