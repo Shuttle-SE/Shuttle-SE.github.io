@@ -1,10 +1,12 @@
 ![Shuttle Logo](/shu_logo-C-01.png)
 
-## Welcome to Shuttle SE
+# We are an Open-Source project.
 
 We are a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
 
 Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
+
+If you would like to contribute please visit our GitHub where you will find all the related project files: https://github.com/Shuttle-SE
 
 
 # Join the chat on Discord!
@@ -29,6 +31,22 @@ Always check that you are in the official server. Never send currency over direc
 We are on Twitter. Follow us **@SeShuttle** to get the latest on **Shuttle** and related news.
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" data-link-color="#ff3434" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+# Join our Team
+
+
+If you think you got what it takes then why not join our Team.
+
+We are in need of:
+
+*Developers
+*Designers
+*Promoters
+*Community Managers
+*Support Staff
+
+For info, please contact one of our Commanders.
 
 
 # Support
