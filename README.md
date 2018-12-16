@@ -1,4 +1,4 @@
-# Welcome to Shuttle SE
+## Welcome to Shuttle SE!
 
 
 ![Shuttle Logo](/img/shu_logo-300x.png)
@@ -7,6 +7,16 @@
 We are a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
 
 Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
+
+
+# Exchanges
+
+
+We are currently listed in three of top crypto exchanges, get your hands on some Shuttle before it gets scarce using one of these:
+
+CREX24
+
+GET https://api.crex24.com/v2/public/tickers?instrument=SHUT-BTC
 
 
 # We are an Open-Source project.
@@ -37,7 +47,7 @@ We are on Twitter. Keep up to date with what new grounds we're breaking and late
 
 <a href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @SeShuttle</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" data-link-color="#ff3434" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="450" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Join our Team
