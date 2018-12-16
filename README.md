@@ -12,11 +12,16 @@ Shuttle is a coin that plans to implement funding and development of companies b
 # Exchanges
 
 
-We are currently listed in three of top crypto exchanges, get your hands on some Shuttle before it gets scarce using one of these:
+We are currently listed in three of top crypto exchanges, get your hands on some Shuttle using one of these:
 
-CREX24
+### CREX24
+https://crex24.com/exchange/SHUT-BTC
 
-GET https://api.crex24.com/v2/public/tickers?instrument=SHUT-BTC
+### GRAVIEX
+https://graviex.net/markets/shutbtc
+
+### VAULTMEX
+https://vaultmex.com/trade/SHUT/BTC
 
 
 # We are an Open-Source project.
@@ -32,7 +37,7 @@ Join our community on Discord to get technical support, trade and mining tips, a
 
 <iframe src="https://discordapp.com/widget?id=520628368194928642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
-### BEWARE OF IMITATIONS!
+## BEWARE OF IMITATIONS!
 
 This is the only official Shuttle server on Discord: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
