@@ -1,4 +1,4 @@
-![Shuttle Logo](/shu_logo-300x.png)
+![Shuttle Logo](/img/shu_logo-300x.png)
 
 # We are an Open-Source project.
 
