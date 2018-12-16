@@ -1,3 +1,8 @@
+<marquee behavior="scroll" direction="left">
+<img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
+</marquee>
+
+
 ![Shuttle Logo](/img/shu_logo-300x.png)
 
 
