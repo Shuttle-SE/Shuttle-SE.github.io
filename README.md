@@ -40,11 +40,11 @@ If you think you got what it takes then why not join our Team.
 
 We are in need of:
 
--_Developers_
--_Designers_
--_Promoters_
--_Community Managers_
--_Support Staff_
+-Developers
+-Designers
+-Promoters
+-Community Managers
+-Support Staff
 
 For info, please contact one of our team.
 
@@ -61,5 +61,5 @@ You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/Yd
 
 
 <marquee behavior="scroll" direction="left">
-<img src="/img/scrolling-banner.png" width="800" height="200" alt="DD-Chain | Rocket | CFCC">
+<img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
 </marquee>
