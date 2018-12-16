@@ -21,12 +21,17 @@ We are currently listed in three of top crypto exchanges, get your hands on some
 
 ### CREX24
 [https://crex24.com/exchange/SHUT-BTC](https://crex24.com/exchange/SHUT-BTC)
+![Crex24](/img/crex24-logo_200x.jpg)
+
 
 ### GRAVIEX
 [https://graviex.net/markets/shutbtc](https://graviex.net/markets/shutbtc)
+![Graviex](/img/Graviex-Logotype_200x.png)
+
 
 ### VAULTMEX
 [https://vaultmex.com/trade/SHUT/BTC](https://vaultmex.com/trade/SHUT/BTC)
+![Vaultmex](/img/vaultmex_logo-200x.png)
 
 
 # We are an Open-Source project.
