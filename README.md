@@ -1,5 +1,3 @@
-## Welcome to Shuttle SE!
-
 ![Shuttle Logo](/shu_logo-C-01.png)
 
 We are a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
