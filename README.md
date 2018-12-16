@@ -6,7 +6,7 @@ We are a PoS cryptocurrency promoting Shuttle Technology Development. We would l
 
 Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
 
-If you'd like to contribute you may visit our GitHub page where you will find all the related project files at your disposal: https://github.com/Shuttle-SE
+If you'd like to contribute you may visit our GitHub page where you will find all the related project files at your disposal: [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
 
 
 # Join the chat on Discord!
