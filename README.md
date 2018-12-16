@@ -1,7 +1,7 @@
-## Welcome to Shuttle SE!
-
-
 ![Shuttle Logo](/img/shu_logo-300x.png)
+
+
+# Welcome to Shuttle SE!
 
 
 We are a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
@@ -15,13 +15,13 @@ Shuttle is a coin that plans to implement funding and development of companies b
 We are currently listed in three of top crypto exchanges, get your hands on some Shuttle using one of these:
 
 ### CREX24
-https://crex24.com/exchange/SHUT-BTC
+[https://crex24.com/exchange/SHUT-BTC](https://crex24.com/exchange/SHUT-BTC)
 
 ### GRAVIEX
-https://graviex.net/markets/shutbtc
+[https://graviex.net/markets/shutbtc](https://graviex.net/markets/shutbtc)
 
 ### VAULTMEX
-https://vaultmex.com/trade/SHUT/BTC
+[https://vaultmex.com/trade/SHUT/BTC](https://vaultmex.com/trade/SHUT/BTC)
 
 
 # We are an Open-Source project.
