@@ -40,13 +40,13 @@ If you think you got what it takes then why not join our Team.
 
 We are in need of:
 
--Developers
--Designers
--Promoters
--Community Managers
--Support Staff
+-_Developers_
+-_Designers_
+-_Promoters_
+-_Community Managers_
+-_Support Staff_
 
-For info, please contact one of our Commanders.
+For info, please contact us.
 
 
 # Support
