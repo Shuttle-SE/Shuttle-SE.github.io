@@ -1,10 +1,16 @@
+# Welcome to Shuttle SE
+
+
 ![Shuttle Logo](/img/shu_logo-300x.png)
 
-# We are an Open-Source project.
 
 We are a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
 
 Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
+
+
+# We are an Open-Source project.
+
 
 If you'd like to contribute you may visit our GitHub page where you will find all the related project files at your disposal: [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
 
@@ -12,7 +18,7 @@ If you'd like to contribute you may visit our GitHub page where you will find al
 # Join the chat on Discord!
 
 
-Join our community on discord to get technical support, trade and mining tips, and regular airdrops :sunglasses:
+Join our community on Discord to get technical support, trade and mining tips, and regular airdrops.
 
 <iframe src="https://discordapp.com/widget?id=520628368194928642&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
@@ -20,15 +26,17 @@ Join our community on discord to get technical support, trade and mining tips, a
 
 This is the only official Shuttle server on Discord: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
-Always check that you are in the official server. Never send currency over direct message.
+Always check that you are in the official server. Never send currency over direct messages, always use exchanges.
 
 
 # Follow us on Twitter
 
 
+We are on Twitter. Keep up to date with what new grounds we're breaking and latest juice about crypto and related partners. Follow us now **@SeShuttle** .
+
+
 <a href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @SeShuttle</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We are on Twitter. Follow us **@SeShuttle** to get the latest on **Shuttle** and related news.
 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" data-link-color="#ff3434" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -38,7 +46,7 @@ We are on Twitter. Follow us **@SeShuttle** to get the latest on **Shuttle** and
 
 If you think you got what it takes then why not join our Team.
 
-We are in need of:
+We are currently in need of:
 
 -Developers
 -Designers
@@ -46,7 +54,7 @@ We are in need of:
 -Community Managers
 -Support Staff
 
-For info, please contact one of our team.
+For info, please contact one of our team in our official Discord server [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
 
 # Support
