@@ -1,4 +1,4 @@
-![Shuttle Logo](/shu_logo-C-01.png)
+![Shuttle Logo](/shu_logo-300x.png)
 
 # We are an Open-Source project.
 
@@ -46,7 +46,7 @@ We are in need of:
 -_Community Managers_
 -_Support Staff_
 
-For info, please contact us.
+For info, please contact one of our team.
 
 
 # Support
@@ -55,3 +55,11 @@ For info, please contact us.
 Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel so we can help you sort it out.
 
 You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+
+
+# Official Partners
+
+
+<marquee behavior="scroll" direction="left">
+<img src="/img/scrolling-banner.png" width="800" height="200" alt="DD-Chain | Rocket | CFCC">
+</marquee>
