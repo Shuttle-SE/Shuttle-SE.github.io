@@ -91,3 +91,9 @@ You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/Yd
 <marquee behavior="scroll" direction="left">
 <img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
 </marquee>
+
+
+
+
+
+<p>&copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
