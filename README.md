@@ -96,4 +96,4 @@ You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/Yd
 
 
 
-<p>&copy; {{ site.name }} {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
+<p>&copy; Shuttle SE {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
