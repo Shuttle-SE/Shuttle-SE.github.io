@@ -1,9 +1,12 @@
 <marquee behavior="scroll" direction="left">
-<img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
+  <img src="/img/shu_logo-C-02-200x.png" width="" height="" alt="Shuttle">
+<img src="/img/vaultmex_logo-200x.png" width="" height="" alt="Vaultmex">
+  <img src="/img/crex24-logo_200x.jpg" width="" height="" alt="Crex24">
+    <img src="/img/Graviex-Logotype_200x.png" width="" height="" alt="Graviex">
 </marquee>
 
 
-![Shuttle Logo](/img/shu_logo-300x.png)
+![Shuttle Logo](/img/shu_logo-C-02-200x.png)
 
 
 # Welcome to Shuttle SE!
