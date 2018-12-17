@@ -12,7 +12,7 @@ Shuttle is a coin that plans to implement funding and development of companies b
 # Exchanges
 
 
-We are currently listed in three of top crypto exchanges, we recommend using one of these to get your hands on some of our Shuttle tokens:
+We are currently listed in three of top crypto exchanges, we recommend using one of these to get your hands on some Shuttle tokens:
 
 ### CREX24
 
@@ -33,7 +33,7 @@ We are currently listed in three of top crypto exchanges, we recommend using one
 # We are an Open-Source project.
 
 
-Contribute to our project! Visit our GitHub page: [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
+Contribute to our project on GitHub! Visit our project here [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
 
 
 # Join the chat on Discord!
@@ -45,7 +45,7 @@ Join our community on Discord to get technical support, trade and mining tips, a
 
 ## BEWARE OF IMITATIONS!
 
-This is the only official Shuttle server on Discord: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+This is the only official Shuttle server on Discord [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
 Always check that you are in the official server. Never send currency over direct messages, always use exchanges.
 
@@ -53,7 +53,7 @@ Always check that you are in the official server. Never send currency over direc
 # Follow us on Twitter
 
 
-We are on Twitter. Keep up to date with what new grounds we're breaking and latest juice about crypto and related partners. Follow us now **@SeShuttle** .
+We are on Twitter. Keep up to date with what new grounds we're breaking and the latest juice about crypto and related partners. Follow us now **@SeShuttle** .
 
 
 <a href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @SeShuttle</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -80,9 +80,7 @@ For info, please contact one of our team in our official Discord server [https:/
 # Support
 
 
-Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel so we can help you sort it out.
-
-You can join using this link: [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel so we can help you sort it out. Join using this link [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
 
 
 # Official Partners
