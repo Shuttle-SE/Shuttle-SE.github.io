@@ -4,7 +4,7 @@
 # Welcome to Shuttle!
 
 
-Shuttle is a PoS cryptocurrency promoting Shuttle Technology Development. We would like Space Travel to become fast and comfortable while being cost effective.
+Shuttle is a PoS cryptocurrency promoting Space Travel Tech. Development. We would like Space Travel to become fast and comfortable while being cost effective.
 
 Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
 
@@ -16,21 +16,15 @@ We are currently listed in three of top crypto exchanges, we recommend using one
 
 ### CREX24
 
-![Crex24](/img/crex24-logo_200x.jpg)
-
 [https://crex24.com/exchange/SHUT-BTC](https://crex24.com/exchange/SHUT-BTC)
 
 
 ### GRAVIEX
 
-![Graviex](/img/Graviex-Logotype_200x.png)
-
 [https://graviex.net/markets/shutbtc](https://graviex.net/markets/shutbtc)
 
 
 ### VAULTMEX
-
-![Vaultmex](/img/vaultmex_logo-200x.png)
 
 [https://vaultmex.com/trade/SHUT/BTC](https://vaultmex.com/trade/SHUT/BTC)
 
@@ -39,7 +33,7 @@ We are currently listed in three of top crypto exchanges, we recommend using one
 # We are an Open-Source project.
 
 
-If you'd like to contribute you may visit our GitHub page where you will find all the related project files at your disposal: [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
+Contribute to our project! Visit our GitHub page: [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
 
 
 # Join the chat on Discord!
@@ -64,7 +58,7 @@ We are on Twitter. Keep up to date with what new grounds we're breaking and late
 
 <a href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @SeShuttle</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" data-width="400" data-theme="dark" data-link-color="#2091C1" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" data-link-color="#199" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Join our Team
