@@ -1,6 +1,3 @@
-![Shuttle](/img/shu_logo-C-03-200x.png)
-
-
 # Welcome to Shuttle!
 
 
