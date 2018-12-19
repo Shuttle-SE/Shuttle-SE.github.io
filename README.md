@@ -33,7 +33,7 @@ We are currently listed in three of top crypto exchanges, we recommend using one
 # We are an Open-Source project.
 
 
-Contribute to our project on GitHub! Visit our project here [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
+Contribute to Shuttle-SE/Shuttle-SE-Coin development by creating an account on GitHub [https://github.com/Shuttle-SE](https://github.com/Shuttle-SE)
 
 
 # Join the chat on Discord!
