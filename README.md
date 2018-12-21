@@ -73,7 +73,7 @@ We are currently in need of:
 -Community Managers
 -Support Staff
 
-For info, please contact one of our team in our official Discord server [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+If you are interested, please email your CV and cover letter to: newshuttlese@gmail.com
 
 
 # Support
