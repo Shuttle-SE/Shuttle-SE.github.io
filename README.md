@@ -12,7 +12,9 @@ Shuttle also plans to implement funding and development for companies based in t
 
 
 <marquee behavior="scroll" direction="left">
-<img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
+<img src="/img/scrolling-banner-1.png" width="" height="" alt="DD-CHAIN | ROCKET | CFCC">
+  <img src="/img/scrolling-banner-2.png" width="" height="" alt="CREX24 | VAULTMEX | GRAVIEX">
+  <img src="/img/scrolling-banner-3.png" width="" height="" alt="COIN ZONE | STAKING WORLD | EASTERN EMPIRE | DISCORD FORUM">
 </marquee>
 
 
