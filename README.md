@@ -95,7 +95,7 @@ We are currently in need of:
 If you are interested, please email your CV and cover letter to: newshuttlese@gmail.com
 
 
-
+<link rel="icon"  type="image/png"    href="/img/shu_logo-C-03-200x.png.png">
 
 
 <p>&copy; Shuttle SE {{ site.time | date: '%Y' }} | All Rights Reserved. </p>
