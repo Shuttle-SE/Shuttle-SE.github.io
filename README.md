@@ -92,7 +92,7 @@ We are currently in need of:
 -Community Managers
 -Support Staff
 
-If you are interested, please email your CV and cover letter to: [newshuttlese@gmail.com](newshuttlese@gmail.com)
+If you are interested, please email your CV and cover letter to: newshuttlese@gmail.com
 
 
 
