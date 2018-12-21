@@ -68,6 +68,14 @@ We are on Twitter. Keep up to date with what new grounds we're breaking and the 
 <a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" data-link-color="#199" href="https://twitter.com/SeShuttle?ref_src=twsrc%5Etfw">Tweets by SeShuttle</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+# Support
+
+
+Having trouble with Shuttle?
+
+If you need to chat with one of our support staff, please mention one of our Payload Commanders in the corresponding Support channel inside our Discord server [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp) or by direct message so we can help you sort it out.
+
+
 # Join our Team
 
 
@@ -82,14 +90,6 @@ We are currently in need of:
 -Support Staff
 
 If you are interested, please email your CV and cover letter to: newshuttlese@gmail.com
-
-
-# Support
-
-
-Having trouble with Shuttle?
-
-If you need to chat with one of our support staff, please mention one of our Payload Commanders in the corresponding Support channel inside our Discord server [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp) or by direct message so we can help you sort it out.
 
 
 
