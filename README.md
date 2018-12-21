@@ -79,7 +79,9 @@ For info, please contact one of our team in our official Discord server [https:/
 # Support
 
 
-Having trouble with Shuttle? Please join our Discord community and tag one of our Payload Commanders in the corresponding Support channel so we can help you sort it out. Join using this link [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp)
+Having trouble with Shuttle?
+
+If you need to chat with one of our support staff, please mention one of our Payload Commanders in the corresponding Support channel inside our Discord server [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp) or by direct message so we can help you sort it out.
 
 
 # Official Partners
