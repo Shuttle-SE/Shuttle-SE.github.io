@@ -17,7 +17,8 @@ Shuttle is a coin that plans to implement funding and development of companies b
 # Exchanges
 
 We always recommend using official exchanges to buy and sell Shuttle.
-We're currently listed in three cryptocurrency exchanges which are listed below.
+
+We're currently listed in three top cryptocurrency exchanges listed below:
 
 
 ### CREX24
