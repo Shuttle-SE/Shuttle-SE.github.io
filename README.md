@@ -1,9 +1,11 @@
 # Welcome to Shuttle!
 
 
-Shuttle is a PoS cryptocurrency promoting Space Travel Tech. development. We would like "Space Travel" to become fast and convenient while being cost effective and comfortable.
+Shuttle is a PoS cryptocurrency promoting Transport Technologies.
 
-Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
+We strive to make traveling fast and convenient while being cost effective and comfortable.
+
+Shuttle also plans to implement funding and development of companies based in the Space Tech. Industry.
 
 
 # Official Partners
@@ -90,7 +92,7 @@ We are currently in need of:
 -Community Managers
 -Support Staff
 
-If you are interested, please email your CV and cover letter to: newshuttlese@gmail.com
+If you are interested, please email your CV and cover letter to: [newshuttlese@gmail.com](newshuttlese@gmail.com)
 
 
 
