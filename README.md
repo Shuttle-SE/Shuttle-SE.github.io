@@ -6,6 +6,14 @@ Shuttle is a PoS cryptocurrency promoting Space Travel Tech. Development. We wou
 Shuttle is a coin that plans to implement funding and development of companies based in the Space Tech. Industry.
 
 
+# Official Partners
+
+
+<marquee behavior="scroll" direction="left">
+<img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
+</marquee>
+
+
 # Exchanges
 
 We always recommend using official exchanges to buy and sell Shuttle.
@@ -82,14 +90,6 @@ If you are interested, please email your CV and cover letter to: newshuttlese@gm
 Having trouble with Shuttle?
 
 If you need to chat with one of our support staff, please mention one of our Payload Commanders in the corresponding Support channel inside our Discord server [https://discord.gg/YdM43sp](https://discord.gg/YdM43sp) or by direct message so we can help you sort it out.
-
-
-# Official Partners
-
-
-<marquee behavior="scroll" direction="left">
-<img src="/img/scrolling-banner.png" width="" height="" alt="DD-Chain | Rocket | CFCC">
-</marquee>
 
 
 
