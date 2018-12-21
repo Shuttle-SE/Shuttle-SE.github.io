@@ -5,7 +5,7 @@ Shuttle is a PoS cryptocurrency promoting Transport Technologies.
 
 We strive to make traveling fast and convenient while being cost effective and comfortable.
 
-Shuttle also plans to implement funding and development of companies based in the Space Tech. Industry.
+Shuttle also plans to implement funding and development for companies based in the Space Tech. Industry.
 
 
 # Official Partners
